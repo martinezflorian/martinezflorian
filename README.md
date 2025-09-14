@@ -1,16 +1,13 @@
-## Hi there 👋
+#  Hola, soy Florian Martinez
 
-<!--
-**martinezflorian/martinezflorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Sobre mí
+- Tengo **29 años**  
+- Me interesa la **ciencia de datos** y cómo aplicarla en distintos contextos (análisis, machine learning, Web3, etc.)  
+- Me considero una persona **proactiva**, queriendo aprender nuevas tecnologías y asumiendo desafios 
 
-Here are some ideas to get you started:
+##  Metas
+- Desarrollarme como profesional en el área de **Data Science**.  
+- Aplicar mis conocimientos a proyectos que integren **tecnología blockchain**, datos y seguridad.  
+- Contribuir a comunidades y proyectos de **código abierto**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Gracias por leer mi espacio, saludos!
